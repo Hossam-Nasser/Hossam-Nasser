@@ -21,9 +21,9 @@ I'm Hossam, Mobile Developer.
 
 
 ## Contact
-- [taha.nagy06@gmail.com](mailto:taha.nagy06@gmail.com)
-- [TahaMahmoud](https://www.linkedin.com/in/engtahamahmoud/) on LinkedIn
-- Check [tahamahmoud.github.io](https://tahamahmoud.github.io) For Summary Projects
+- [hossamnasser100@gamil.com](mailto:hossamnasser100@gamil.com)
+- [HossamNasser](https://www.linkedin.com/in/hossam-nasser-830202204/) on LinkedIn
+
 
 
 <h1 align="center">
