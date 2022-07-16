@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=BC36F7&center=true&vCenter=true&lines=Hossam+Nasser" alt="Hossam Nasser" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=BC36F7&center=true&vCenter=true&lines=Hossam+Nasser" alt="Hossam Nasser" />
 </h1>
 
 ## Hey! 👋
