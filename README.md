@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TahaMahmoud/TahaMahmoud/5bce03788481e71382e4174c46266ccaee3dd184/name.svg" alt="Hossam Nasser" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=BC36F7&center=true&vCenter=true&lines=Hossam+Nasser" alt="Hossam Nasser" />
 </h1>
 
 ## Hey! 👋
