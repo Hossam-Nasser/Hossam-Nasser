@@ -24,3 +24,8 @@ I'm Hossam, Mobile Developer.
 - [taha.nagy06@gmail.com](mailto:taha.nagy06@gmail.com)
 - [TahaMahmoud](https://www.linkedin.com/in/engtahamahmoud/) on LinkedIn
 - Check [tahamahmoud.github.io](https://tahamahmoud.github.io) For Summary Projects
+
+
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-Nasser&show_icons=true&theme=radical" alt="Hossam Nasser" />
+</h1>
