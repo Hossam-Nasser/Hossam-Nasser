@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/TahaMahmoud/TahaMahmoud/5bce03788481e71382e4174c46266ccaee3dd184/name.svg" alt="Taha Mahmoud" />
+  <img src="https://raw.githubusercontent.com/TahaMahmoud/TahaMahmoud/5bce03788481e71382e4174c46266ccaee3dd184/name.svg" alt="Hossam Nasser" />
 </h1>
 
 ## Hey! 👋
