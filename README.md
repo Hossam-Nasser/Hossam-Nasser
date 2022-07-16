@@ -4,20 +4,20 @@
 </h1>
 
 ## Hey! 👋
-I'm Taha, iOS Developer.
+I'm Hossam, Mobile Developer.
 
-- 🧭 iOS Developer at [Artificial Intelligence Technology Center - MUST University](https://www.must.edu.eg)
+- 🧭 freelance mobile developer [flutter , androied ]
 
 ## Skills
--	👨‍💻 Swift, UIKit, SwiftUI
--	⚙️ MVC, MVP, VIPER, MVVM-C, RxSwift, Combine
--	👨‍💻 CoreData, Realm 
+-	👨‍💻 dart, kotlin ,Java, 
+-	⚙️ MVC, MVP,  MVVM 
+-	👨‍💻 provider and getx as state management 
 -	⚙️ Knowledge in Unit Testing
 -	💽 Memory Management, Concurrency 
 -	⚙️ Git, GitFlow, CI/CD
 -	👨‍💻 Firebase
 -	💽 Software Engineering concepts, Data Structures and Algorithms
--	👁️ UI/UX design (SKETCH APP, ADOBE XD)
+
 
 
 ## Contact
