@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=A322CA&center=true&vCenter=true&lines=Hossam+Nasser;Mobile+developer+(Flutter+%7C+Android)" />
+  <img src="(https://readme-typing-svg.herokuapp.com?size=40&duration=3000&color=A322CA&center=true&vCenter=true&width=820&height=100&lines=Hossam+Nasser;Mobile+developer+(Flutter+%7C+Android)" />
 </h1>
 
 ## Hey! 👋
