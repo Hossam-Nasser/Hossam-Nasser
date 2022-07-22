@@ -38,7 +38,7 @@ Featured in more than 20 magazines and newspapers, EgyAdvisor allows you to
 ● save museums and temples on your favorite
 .<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=joe13.promotion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.hn.misr.EgyAdvisor" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
   
 <hr>
 
@@ -56,7 +56,7 @@ Featured in more than 20 magazines and newspapers, EgyAdvisor allows you to
 • Various layout options
 .<br />
 
-<p><a href="[https://play.google.com/store/apps/details?id=com.thinkgeniux.focusi](https://play.google.com/store/apps/details?id=com.developer.arsltech.pexelwallpaper)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
+<p><a href="https://play.google.com/store/apps/details?id=com.developer.arsltech.pexelwallpaper" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
  
 <hr>
 
