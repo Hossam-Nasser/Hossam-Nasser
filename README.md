@@ -6,7 +6,7 @@
 ## Hey! 👋
 I'm Hossam, Mobile Developer.
 
-- 🧭 freelance mobile developer [flutter , androied ]
+- 🧭 freelance mobile developer [flutter , androied]
 
 ## Skills
 -	👨‍💻 dart, kotlin ,Java, 
