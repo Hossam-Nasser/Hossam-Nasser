@@ -18,6 +18,33 @@ I'm Hossam, Mobile Developer.
 -	👨‍💻 Firebase
 -	💽 Software Engineering concepts, Data Structures and Algorithms
 
+<hr>
+  
+### ًںڑ€ Some of my main projects
+
+### JOE MI
+
+JOE MI is a digital system to manage and track all promoters andmerchandisers detailed activities.
+( Location, Check in & Check out, Sales, Stock, Out of stock,Competitors,Gallery ,VOC, Journey Plan).Providing you with a
+- Clear detailed statistics and dashboard.
+- Data centralization.
+- Registering complaints - users are entities to present theircomplaints totheir service provider by raising a ticket.DashboardA powerful real-time (live) dashboard to summarize all inputsfrom the fieldforce team (promoters and merchandisers). In addition to
+tracking thelocation of each team member.GPS tracker shows notifications and alert the admin whenevera promoter.
+.<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=joe13.promotion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://testflight.apple.com/join/HFrHffEM" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+  
+<hr>
+
+### Focus i
+
+Focus i is the best application to shop from through the Internet in the Middle East.
+It offers the latest contact lenses and everything related to the beauty of the eye from worldwide
+Brands that is not available in local shops at
+competitive prices.
+.
+.<br />
+
 
 
 ## Contact
