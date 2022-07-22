@@ -20,32 +20,43 @@ I'm Hossam, Mobile Developer.
 
 <hr>
   
-Some of my main projects
+##Some of my main projects
 
 ### EgyAdvisor 
 
-JOE MI is a digital system to manage and track all promoters andmerchandisers detailed activities.
-( Location, Check in & Check out, Sales, Stock, Out of stock,Competitors,Gallery ,VOC, Journey Plan).Providing you with a
-- Clear detailed statistics and dashboard.
-- Data centralization.
-- Registering complaints - users are entities to present theircomplaints totheir service provider by raising a ticket.DashboardA powerful real-time (live) dashboard to summarize all inputsfrom the fieldforce team (promoters and merchandisers). In addition to
-tracking thelocation of each team member.GPS tracker shows notifications and alert the admin whenevera promoter.
+You can now visit see all Egyptian museums and temples all details in one application
+HAVE YOU EVER THOUGHT ABOUT VISITING EGYPT?
+
+With EgyAdvisor app, you can now explore the all sightseeing spots in Egypt . All museums in Egypt in one application . From Museums, Temples to the Pyramids, from Cairo, Alexandria to Luxor and Aswan, we got you covered.
+Featured in more than 20 magazines and newspapers, EgyAdvisor allows you to
+
+● Recommended list places in Egypt to visit .
+● Filter experiences by Category, Search.
+● Read Verified description for each spot
+● Find shortest path through the the places 
+● Find logistical information like prices and locations
+● save museums and temples on your favorite
 .<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=joe13.promotion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
+<p><a href="[https://play.google.com/store/apps/details?id=joe13.promotion](https://play.google.com/store/apps/details?id=com.hn.misr.EgyAdvisor)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
   
 <hr>
 
-### Focus i
+### Wallpaper app
 
-Focus i is the best application to shop from through the Internet in the Middle East.
-It offers the latest contact lenses and everything related to the beauty of the eye from worldwide
-Brands that is not available in local shops at
-competitive prices.
-.
+• Browse 1M+ high-res photos
+• New photos everyday
+• Automatic wallpaper changer: Automatically refresh your home screen with a new random wallpaper
+• Muzei 3.0 Live Wallpaper source (Muzei app needs to be installed: http://get.muzei.co)
+• Dark theme
+• Download raw photos
+• Set as wallpaper straight from the app
+• View user profiles, curated collections, photo stats and EXIF data
+• Log in to like photos and update your profile
+• Various layout options
 .<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=com.thinkgeniux.focusi" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/focusi-%D9%81%D9%88%DA%A9%D8%B3-%D8%A2%D9%8A/id1453887720" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="[https://play.google.com/store/apps/details?id=com.thinkgeniux.focusi](https://play.google.com/store/apps/details?id=com.developer.arsltech.pexelwallpaper)" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
  
 <hr>
 
