@@ -20,9 +20,9 @@ I'm Hossam, Mobile Developer.
 
 <hr>
   
-### ًںڑ€ Some of my main projects
+Some of my main projects
 
-### JOE MI
+### EgyAdvisor 
 
 JOE MI is a digital system to manage and track all promoters andmerchandisers detailed activities.
 ( Location, Check in & Check out, Sales, Stock, Out of stock,Competitors,Gallery ,VOC, Journey Plan).Providing you with a
@@ -32,7 +32,7 @@ JOE MI is a digital system to manage and track all promoters andmerchandisers de
 tracking thelocation of each team member.GPS tracker shows notifications and alert the admin whenevera promoter.
 .<br />
 
-<p><a href="https://play.google.com/store/apps/details?id=joe13.promotion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://testflight.apple.com/join/HFrHffEM" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<p><a href="https://play.google.com/store/apps/details?id=joe13.promotion" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> </a><p>
   
 <hr>
 
@@ -44,6 +44,10 @@ Brands that is not available in local shops at
 competitive prices.
 .
 .<br />
+
+<p><a href="https://play.google.com/store/apps/details?id=com.thinkgeniux.focusi" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/eg/app/focusi-%D9%81%D9%88%DA%A9%D8%B3-%D8%A2%D9%8A/id1453887720" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+ 
+<hr>
 
 
 
