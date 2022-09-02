@@ -61,7 +61,6 @@ Featured in more than 20 magazines and newspapers, EgyAdvisor allows you to
 <hr>
 
 
-
 ## Contact
 - [hossamnasser100@gamil.com](mailto:hossamnasser100@gamil.com)
 - [HossamNasser](https://www.linkedin.com/in/hossam-nasser-830202204/) on LinkedIn
