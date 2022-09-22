@@ -65,7 +65,6 @@ Featured in more than 20 magazines and newspapers, EgyAdvisor allows you to
 - [HossamNasser](https://www.linkedin.com/in/hossam-nasser-830202204/) on LinkedIn
 
 
-
 <h1 align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hossam-Nasser&show_icons=true&theme=radical" alt="Hossam Nasser" />
 </h1>
