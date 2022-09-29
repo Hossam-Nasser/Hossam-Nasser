@@ -7,6 +7,8 @@
 I'm Hossam, Mobile Developer.
 
 - 🧭 freelance mobile developer [flutter , androied]
+- 🧭 Flutter Instructor at Amit-Learning 
+ 
 
 ## Skills
 -	👨‍💻 dart, kotlin ,Java, 
