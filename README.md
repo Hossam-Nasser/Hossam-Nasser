@@ -43,6 +43,16 @@
 </ul>
 <p><a href="https://play.google.com/store/apps/details?id=com.developer.arsltech.pexelwallpaper" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
+<h4>Running App</h4>
+<p>Track your running progress with this Android app. Features include:</p>
+<ul>
+  <li>Track distance, duration, and calories burned</li>
+  <li>View your running history with detailed stats</li>
+  <li>Set goals and receive notifications when you achieve them</li>
+  <li>Sync your data with Google Fit</li>
+</ul>
+<p><a href="https://play.google.com/store/apps/details?id=com.androiddevs.runningapp&pli=1" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
+
 <h3>Contact</h3>
 <ul>
   <li><a href="mailto:hossamnasser100@gmail.com">hossamnasser100@gmail.com</a></li>
