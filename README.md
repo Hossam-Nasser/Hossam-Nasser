@@ -62,7 +62,7 @@
   <li>Compatibility with a wide range of devices and Android versions, thanks to its responsive design and compatibility with different screen sizes and resolutions</li>
 <li>Regular updates with bug fixes and new features to enhance the user experience and ensure smooth performance</li>
 </ul>
-<p><a href="https://play.google.com/store/apps/details?id=com.hn.vintage_phone" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.hn.vintagePhone" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
 <h3>Get in touch</h3>
 <p>You can reach me via:</p>
