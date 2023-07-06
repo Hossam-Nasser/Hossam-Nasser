@@ -31,7 +31,7 @@
 </ul>
 <p><a href="https://play.google.com/store/apps/details?id=com.hn.misr.EgyAdvisor" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
-<h4>Wallpaper app</h4>
+<h4>Beautiful Wallpapers</h4>
 <p>Browse over 1 million high-resolution photos, with new photos added every day. Features include:</p>
 <ul>
   <li>Automatic wallpaper changer</li>
@@ -43,7 +43,7 @@
 </ul>
 <p><a href="https://play.google.com/store/apps/details?id=com.developer.arsltech.pexelwallpaper" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
-<h4>Running App</h4>
+<h4>TrackRun -GPS Map tracker</h4>
 <p>Track your running progress with this Android app. Features include:</p>
 <ul>
   <li>Track distance, duration, and calories burned</li>
@@ -54,15 +54,20 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.androiddevs.runningapp&pli=1" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
 <h4>Vintage Phone</h4>
-<p>Simulate the experience of using a vintage rotary phone, complete with realistic sound effects and animations. Vintage Phone is available for download on the Google Play Store.</p>
-<p><a href="https://play.google.com/store/apps/details?id=com.hn.vintagePhone" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
-
-<h3>Contact</h3>
+<p>Simulate the experience of using a vintage rotary phone, complete with realistic sound effects and animations. Developed using Flutter, Vintage Phone features:</p>
 <ul>
-  <li><a href="mailto:hossamnasser100@gmail.com">hossamnasser100@gmail.com</a></li>
-  <li><a href="https://www.linkedin.com/in/hossam-nasser-830202204/">Hossam Nasser on LinkedIn</a></li>
+  <li>A clean and user-friendly interface that captures the essence of the retro rotary phone while adding some modern touches</li>
+  <li>Dialing functionality, as well as a "receiver" screen that displays call details and a "history" screen that shows a log of all the dialed numbers</li>
+  <li>Realistic sound effects that mimic the sound of a rotary phone dialing and ringing</li>
+  <li>Compatibility with a wide range of devices and Android versions, thanks to its responsive design and compatibility with different screen sizes and resolutions</li>
+<li>Regular updates with bug fixes and new features to enhance the user experience and ensure smooth performance</li>
 </ul>
+<p><a href="https://play.google.com/store/apps/details?id=com.hn.vintage_phone" target="_blank" rel="noopener noreferrer"><img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /></a></p>
 
-<h2 align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-Nasser&show_icons=true&theme=radical" alt="GitHub stats of Hossam Nasser" />
-</h2>
+<h3>Get in touch</h3>
+<p>You can reach me via:</p>
+<ul>
+  <li>Email: hossamnasserdev@gmail.com</li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/hossamnasserdev/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/hossamnasserdev/</a></li>
+  <li>GitHub: <a href="https://github.com/hossamnasser938" target="_blank" rel="noopener noreferrer">https://github.com/hossamnasser938</a></li>
+</ul>
