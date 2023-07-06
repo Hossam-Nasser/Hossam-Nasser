@@ -69,5 +69,8 @@
 <ul>
   <li>Email: hossamnasserdev@gmail.com</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/hossamnasserdev/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/hossamnasserdev/</a></li>
-  <li>GitHub: <a href="https://github.com/hossamnasser938" target="_blank" rel="noopener noreferrer">https://github.com/hossamnasser938</a></li>
 </ul>
+
+<h2 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hossam-Nasser&show_icons=true&theme=radical" alt="GitHub stats of Hossam Nasser" />
+</h2>
