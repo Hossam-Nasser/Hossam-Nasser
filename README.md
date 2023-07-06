@@ -57,8 +57,8 @@
 <p>Simulate the experience of using a vintage rotary phone, complete with realistic sound effects and animations. Developed using Flutter, Vintage Phone features:</p>
 <ul>
   <li>A clean and user-friendly interface that captures the essence of the retro rotary phone while adding some modern touches</li>
-  <li>Dialing functionality, as well as a "receiver" screen that displays call details and a "history" screen that shows a log of all the dialed numbers</li>
-  <li>Realistic sound effects that mimic the sound of a rotary phone dialing and ringing</li>
+  <li>Dialing functionality with voice command support, so you can make calls by speaking the name or number of the person you want to call</li>
+  <li>Dark mode and light mode options for a personalized viewing experience</li>
   <li>Compatibility with a wide range of devices and Android versions, thanks to its responsive design and compatibility with different screen sizes and resolutions</li>
 <li>Regular updates with bug fixes and new features to enhance the user experience and ensure smooth performance</li>
 </ul>
