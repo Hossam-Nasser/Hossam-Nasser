@@ -68,7 +68,7 @@
 <h3>Get in touch</h3>
 <p>You can reach me via:</p>
 <ul>
-  <li>Email: hossamnasserdev@gmail.com</li>
+  <li>Email: hossamnasser100@gmail.com</li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/hossamnasserdev/" target="_blank" rel="noopener noreferrer">https://www.linkedin.com/in/hossamnasserdev/</a></li>
 </ul>
 
