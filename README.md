@@ -9,11 +9,12 @@
 <ul>
   <li>Dart, Kotlin, Java</li>
   <li>MVC, MVP, MVVM</li>
-  <li>Provider and GetX as state management</li>
+  <li>Cubit, Riverpod, and GetX as state management</li>
   <li>Unit testing</li>
   <li>Memory management, concurrency</li>
   <li>Git, GitFlow, CI/CD</li>
   <li>Firebase</li>
+  <li>codemagic and fastlane</li>
   <li>Software engineering concepts, data structures, and algorithms</li>
 </ul>
 
