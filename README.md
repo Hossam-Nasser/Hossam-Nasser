@@ -4,7 +4,7 @@
 
 <h3>Hey! 👋</h3>
 <p>I'm Hossam, a mobile developer specializing in Flutter and Android.</p>
-
+<p>I'm presently employed full-time at Go..Go! Grow..</p>
 <h3>Skills</h3>
 <ul>
   <li>Dart, Kotlin, Java</li>
@@ -14,7 +14,7 @@
   <li>Memory management, concurrency</li>
   <li>Git, GitFlow, CI/CD</li>
   <li>Firebase</li>
-  <li>Software engineering concepts, data structures and algorithms</li>
+  <li>Software engineering concepts, data structures, and algorithms</li>
 </ul>
 
 <h3>Some of my main projects</h3>
