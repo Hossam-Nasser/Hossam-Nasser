@@ -4,7 +4,7 @@
 
 <h3>Hey! 👋</h3>
 <p>I'm Hossam, a mobile developer specializing in Flutter and Android.</p>
-<p>I'm presently employed full-time at Go..Go! Grow..</p>
+<p>I'm presently employed full-time at hne futures..</p>
 <h3>Skills</h3>
 <ul>
   <li>Dart, Kotlin, Java</li>
