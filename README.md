@@ -4,14 +4,13 @@
 
 <h3>Hey! 👋</h3>
 <p>I'm Hossam, a mobile developer specializing in Flutter and Android.</p>
-<p>I'm presently employed full-time at hne futures..</p>
+<p>I'm presently employed full-time at HNE Futures.</p>
 <h3>Skills</h3>
 <ul>
   <li>Dart, Kotlin, Java</li>
   <li>MVC, MVP, MVVM</li>
   <li>Cubit, Riverpod, and GetX as state management</li>
   <li>Unit testing</li>
-  <li>Memory management, concurrency</li>
   <li>Git, GitFlow, CI/CD</li>
   <li>Firebase</li>
   <li>codemagic and fastlane</li>
@@ -19,6 +18,27 @@
 </ul>
 
 <h3>Some of my main projects</h3>
+
+<h4>3afer - عافر</h4>
+<p>
+  Transform your learning experience with 3afer – an innovative educational platform designed exclusively for commerce students. Access high-quality video lessons, interactive quizzes, and expert guidance, all in one app.
+</p>
+<ul>
+  <li>Exclusive educational content and tutorials</li>
+  <li>Interactive quizzes and assessments</li>
+  <li>Personalized learning recommendations</li>
+  <li>Offline access to lessons and resources</li>
+  <li>Up-to-date educational news and trends</li>
+</ul>
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.afeer.latest.hs.afeer_latest" target="_blank" rel="noopener noreferrer">
+    <img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" />
+  </a>
+  <a href="https://apps.apple.com/app/3afer-%D8%B9%D8%A7%D9%81%D8%B1/id6726997774" target="_blank" rel="noopener noreferrer">
+    <img alt="Download on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-blue.svg?style=for-the-badge&logo=apple" />
+  </a>
+</p>
+
 
 <h4>EgyAdvisor</h4>
 <p>Explore all the sightseeing spots in Egypt in one app, from museums and temples to the pyramids. Featured in over 20 magazines and newspapers, EgyAdvisor allows you to:</p>
