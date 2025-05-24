@@ -20,12 +20,17 @@
 <h3>Some of my main projects</h3>
 
 
-
+⚡ Ikarus EV Charging
+<p>Effortlessly manage your EV charging with Ikarus. Locate, book, and monitor charging stations directly from your phone. Built with Flutter for Android and iOS.</p> <ul> <li>Nearby charger locator and reservation</li> <li>QR code check-in and start/stop control</li> <li>Detailed charging session history</li> </ul> <p> <a href="https://play.google.com/store/apps/details?id=com.saascharge.mobile.ikarus" target="_blank" rel="noopener noreferrer"> <img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /> </a> <a href="https://apps.apple.com/us/app/ikarus-ev-charging/id6451494109" target="_blank" rel="noopener noreferrer"> <img alt="Download on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-blue.svg?style=for-the-badge&logo=apple" /> </a> </p>
 
 
 
 🔌 EV Cozmo
 <p>A powerful EV charging and route planning app designed for electric vehicle users. Built with Flutter for both Android and iOS, EV Cozmo offers:</p> <ul> <li>Real-time charger availability</li> <li>Smart navigation to nearby stations</li> <li>In-app payments and transaction history</li> <li>Notifications for charging session status</li> </ul> <p> <a href="https://play.google.com/store/apps/details?id=com.evcozmo.app" target="_blank" rel="noopener noreferrer"> <img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /> </a> <a href="https://apps.apple.com/us/app/ev-cozmo/id6504797651" target="_blank" rel="noopener noreferrer"> <img alt="Download on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-blue.svg?style=for-the-badge&logo=apple" /> </a> </p>
+
+
+📈 HNE Futures
+<p>Track live market trends and futures data with HNE Futures, your go-to mobile platform for real-time analytics and insights. Developed natively with Flutter for Android and iOS.</p> <ul> <li>Real-time market charts</li> <li>Push notifications and alerts</li> <li>User account and favorites list</li> </ul> <p> <a href="https://play.google.com/store/apps/details?id=app.hnefutures.com" target="_blank" rel="noopener noreferrer"> <img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /> </a> <a href="https://apps.apple.com/us/app/hne-futures/id6443637664" target="_blank" rel="noopener noreferrer"> <img alt="Download on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-blue.svg?style=for-the-badge&logo=apple" /> </a> </p>
 
 
 
