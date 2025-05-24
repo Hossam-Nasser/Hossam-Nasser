@@ -19,6 +19,16 @@
 
 <h3>Some of my main projects</h3>
 
+
+
+
+
+
+🔌 EV Cozmo
+<p>A powerful EV charging and route planning app designed for electric vehicle users. Built with Flutter for both Android and iOS, EV Cozmo offers:</p> <ul> <li>Real-time charger availability</li> <li>Smart navigation to nearby stations</li> <li>In-app payments and transaction history</li> <li>Notifications for charging session status</li> </ul> <p> <a href="https://play.google.com/store/apps/details?id=com.evcozmo.app" target="_blank" rel="noopener noreferrer"> <img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on%20Google%20Play-blue.svg?style=for-the-badge&logo=google-play" /> </a> <a href="https://apps.apple.com/us/app/ev-cozmo/id6504797651" target="_blank" rel="noopener noreferrer"> <img alt="Download on the App Store" src="https://img.shields.io/badge/Download%20on%20the%20App%20Store-blue.svg?style=for-the-badge&logo=apple" /> </a> </p>
+
+
+
 <h4>3afer - عافر</h4>
 <p>
   Transform your learning experience with 3afer – an innovative educational platform designed exclusively for commerce students. Access high-quality video lessons, interactive quizzes, and expert guidance, all in one app.
