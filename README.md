@@ -46,3 +46,9 @@
 **☎️ Vintage Phone** – Retro rotary phone simulator with realistic sound.  
 [![Google Play](https://img.shields.io/badge/Android-Play%20Store-blue?style=flat-square&logo=google-play)](https://play.google.com/store/apps/details?id=com.hn.vintagePhone)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASalem404/ASalem404/commit-animation/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ASalem404/ASalem404/commit-animation/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ASalem404/ASalem404/commit-animation/github-contribution-grid-snake.svg">
+</picture>
+
