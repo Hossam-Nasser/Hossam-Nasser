@@ -8,7 +8,7 @@
 
 💼 Currently building mobile apps at **HNE Futures**  
 💬 Focused on **Flutter**, **Android**, and **Clean Architecture**  
-🧠 Experienced in **state management** , **scalable architectures** and **CI/CD automated**
+🧠 Experienced in **state management** , **scalable architectures** and **CI/CD automated**  
 📫 Reach me via [LinkedIn](https://www.linkedin.com/in/hossam-nasser-830202204/) or [Email](mailto:hossamnasser100@gmail.com)
 
 ---
