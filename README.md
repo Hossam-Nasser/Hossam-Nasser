@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Flutter-Expert-informational)
 ![](https://img.shields.io/badge/Dart-Lover-6B9CB0)
 ![](https://img.shields.io/badge/Kotlin-Fan-orange)
-![](https://img.shields.io/badge/Exp-3+yrs-red)
+![](https://img.shields.io/badge/Exp-4+yrs-red)
 
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -20,8 +20,8 @@
 Ikarus makes electric vehicle charging simple — find nearby charging stations, reserve a bay, and monitor charge status in real time.  
 Get route-aware station suggestions, payment options, and session history for smooth, worry-free trips.
 
-[![Google Play](https://img.shields.io/badge/Android-Play%20Store-blue?logo=google-play&style=flat-square)](https://play.google.com/store/apps/details?id=com.saascharge.mobile.ikarus)
-[![App Store](https://img.shields.io/badge/iOS-App%20Store-black?logo=apple&style=flat-square)](https://apps.apple.com/eg/app/ikarus-ev-charging/id6451494109)
+[![Google Play](https://img.shields.io/badge/Android-Play%20Store-blue?logo=google-play&style=flat-square)](https://play.google.com/store/apps/details?id=com.seitech.ikarusapp&hl=en)
+[![App Store](https://img.shields.io/badge/iOS-App%20Store-black?logo=apple&style=flat-square)](https://apps.apple.com/eg/app/ikarus-grid/id6758589455)
 
 ---
 
